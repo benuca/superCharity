@@ -1,0 +1,2 @@
+# superCharity
+ Governments around the world are starting a petition to outlaw super-powers from being used; if caught using their powers, superheroes could face a life-time prison sentence. Therefore, superheroes have decided to start a charity of their own to build support for their cause. Your task is to create a splash page for the superheroes outlining why they are important to society and link it to a donation page you create for them. 
